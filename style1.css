@@ -1,0 +1,156 @@
+body{
+background-image: url(img/thisone.PNG);
+color: #ffffff;
+background-color: cornflowerblue;
+text-shadow: 25cap black;
+
+
+}
+
+#h1{
+
+font-family: sans-serif;
+font-weight: 100;
+color: rgb(255, 255, 255);
+
+}
+
+#header{
+
+font-family: sans-serif;
+font-weight: 100;
+color: rgb(255, 255, 255);
+background-color: #70a8e1;
+
+}
+
+#vol3{
+ 
+    font-family: sans-serif;
+font-weight: 100;
+color: rgb(255, 255, 255);
+
+}
+
+#vol3:hover{
+
+color: rgb(49, 208, 208);
+letter-spacing: 2px;
+font-size: x-large;
+text-decoration: wavy;
+
+}
+
+h3{
+
+
+font-family: sans-serif;
+
+
+}
+
+p{
+
+    font-size: larger;
+    font-weight: 500;
+    text-shadow: 200in;
+}
+
+
+p{
+
+
+    
+}
+a:link{
+
+    color: lch(0% 0 0);
+    background-color: cornflowerblue;
+    font-style: italic;
+    font-weight: bolder;
+    font-size: medium;
+
+
+}
+
+#num1{
+
+    
+    font-family: "Jersey 10", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color: #ffffff;
+  width: 30%;
+   text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+
+
+}
+
+#num2{
+
+   font-family: "Jersey 10", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color: #ffffff;
+  width: 30%;
+   text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+
+}
+
+#bold{
+
+   font-family: "Jersey 10", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color: #ffffff;
+  width: 30%;
+   text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+
+}
+
+#apple{
+
+   font-family: "Jersey 10", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color: #ffffff;
+   text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+
+
+}
+
+#song{
+
+   font-family: "Jersey 10", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color: #ffffff;
+   text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+
+}
+
+h3{
+
+
+   font-family: "Jersey 10", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color: #ffffff;
+   text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+
+}
+
+#outbound{
+
+ font-family: "Jersey 10", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color: #ffffff;
+   text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+   position: relative;
+   width: 30%;
+  left: 70%;
+  top: -130px;
+
+
+}
